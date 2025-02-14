@@ -22,14 +22,6 @@ Acreditamos que a Inteligência Artificial deve estar acessível a todos. Nossa 
 ✔ Alto padrão de segurança e desempenho.  
 ✔ Equipe especializada em IA e desenvolvimento escalável.  
 
-## 📬 Contato
-
-Para mais informações sobre nossa empresa e nossos produtos, entre em contato:
-
-📧 Email: [contato@justai.com](mailto:contato@justai.com)  
-🌐 Site: [www.justai.com](http://www.justai.com)  
-📱 Redes Sociais: [LinkedIn](#) | [Twitter](#) | [Instagram](#)  
-
 ---
 
 *Transformamos ideias em inteligência!* ✨
